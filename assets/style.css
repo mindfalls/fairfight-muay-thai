@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+
+header {
+    position: relative;
+    font-family: 'mogra', sans-serif;
+    background-color: red;
+    width: 100%;
+    height: 100px;
+    
+    
+}
+
+header h1 {
+    float: left;
+    text-transform: uppercase;
+    margin-left: 20px;
+}
+header p {
+    
+}
+
+
+#nav-bar {
+    
+    
+    list-style-type: none;
+    
+    
+}
+#nav-bar li {
+    float: right;
+    margin-right: 30px;
+}
