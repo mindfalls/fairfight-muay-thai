@@ -20,6 +20,7 @@ header h1 {
     text-transform: uppercase;
     margin-left: 20px;
     line-height: 40px;
+    padding-top: 20px;
 }
 
 header p {
@@ -39,8 +40,25 @@ header p {
 #nav-bar li {
     float: right;
     margin-right: 30px;
-    padding: 0;
+    padding-right: 30px;
     line-height: 10px;
     
 
 }
+
+#intro-img {
+    float: right;
+    padding-right:25%;
+    padding-top: 40px;
+}
+
+.intro-div {
+    width: 400px;
+    padding-left: 25%;
+    padding-top: 40px;
+}
+
+.intro-div h2 {
+    
+}
+.
