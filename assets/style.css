@@ -5,11 +5,10 @@
 }
 
 
-
 header {
     position: relative;
     font-family: 'mogra', sans-serif;
-    background-color: red;
+    background-color: #990000;
     height: 100px;
 
 
@@ -42,13 +41,13 @@ header p {
     margin-right: 30px;
     padding-right: 30px;
     line-height: 10px;
-    
+
 
 }
 
 #intro-img {
     float: right;
-    padding-right:25%;
+    padding-right: 25%;
     padding-top: 40px;
 }
 
@@ -59,6 +58,49 @@ header p {
 }
 
 .intro-div h2 {
-    
+    padding-bottom: 20px;
 }
-.
+
+.intro-div p {
+    padding-bottom: 20px;
+}
+
+.trainers-div {
+    padding-top: 100px;
+
+}
+
+.trainers-div h2 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+#trainer1 {
+    padding-left: 25%;
+    padding-top: 100px;
+
+    width: 300px;
+    height: auto;
+    float: left;
+}
+
+#trainer2 {
+    padding-left: 50px;
+    padding-top: 100px;
+    width: 300px;
+    height: 405px;
+}
+
+.trainer-text {
+    padding-top: 100px;
+    margin-left: 50px;
+    float: left;
+    width: 10%;
+
+}
+
+.trainer-text h3 {
+    padding-bottom: 30px;
+}
