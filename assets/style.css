@@ -4,14 +4,15 @@
     border: none;
 }
 body {
-    background-color: #909090;
+    background-color: #FFFFF0;
 }
 
 
 header {
     position: relative;
     font-family: 'mogra', sans-serif;
-    background-color: #990000;
+    background-color: black;
+    color: #FFFFF0;
     height: 100px;
 
 
@@ -136,5 +137,8 @@ table {
 }
 
 table th {
-    border: 2px solid #990000;
+    border: 2px solid black;
+}
+.no-border {
+    border: none;
 }
