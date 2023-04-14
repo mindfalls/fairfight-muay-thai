@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #110841;
+    background-color: #0c062b;
     color: #FFFFF0;
 }
 
@@ -34,7 +34,7 @@ header h1 {
 
 /* Nav-Bar */
 
-ul {
+header ul {
     list-style-type: none;
     margin: 0;
     padding: 40px 0 0;
@@ -44,12 +44,12 @@ ul {
 
 }
 
-li {
+header li {
     float: right;
     margin-right: 30px;
 }
 
-li a {
+header li a {
     display: inline;
     color: #FFFFF0;
     text-align: center;
@@ -149,6 +149,10 @@ li a {
 
 }
 
+#trainer-text {
+    margin-bottom: 50px;
+}
+
 .footer {
     position: relative;
     bottom: 0;
@@ -157,6 +161,19 @@ li a {
     background-color: black;
     clear: both;
 
+}
+
+.footer p {
+    display: inline;
+    position:relative;
+    top: 40px;
+    margin-left: 40px;
+   
+    
+}
+
+#map {
+    text-align: center;
 }
 
 /* Schedule */
@@ -175,6 +192,7 @@ table {
     margin-right: auto;
     font-family: 'mogra', sans-serif;
     background-color: black;
+    letter-spacing: 3px;
 }
 
 th {
