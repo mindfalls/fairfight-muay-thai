@@ -58,13 +58,21 @@ header li a {
     font-size: larger;
 }
 
+.active {
+    text-decoration: underline;
+}
+
 /*Hero image*/
+
+.hero-div {
+    position: relative;
+}
 
 
 
 .slogan {
     position: absolute;
-    top: 350px;
+    top: 15%;
     left: 15%;
     text-align: center;
     text-transform: uppercase;
@@ -176,12 +184,13 @@ header li a {
 }
 
 footer ul {
+    margin-top: 25px;
     list-style-type: none;
 }
 
 footer li {
     float: right;
-    margin-right: 20px;
+    margin-right: 30px;
 
 }
 
@@ -193,6 +202,7 @@ footer li a {
     text-decoration: none;
     font-size: x-large;
 }
+
 #map {
     text-align: center;
 }
@@ -256,3 +266,25 @@ tr {
     text-align: center;
 
 }
+
+/* Form */
+
+form label {
+    margin-top: 20px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#submit {
+    border: 2px solid #FFFFF0;
+}
+
+#submit:hover {
+    background-color: #4f738e;
+    cursor: pointer;
+}
+
+
+    
