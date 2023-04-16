@@ -2,12 +2,21 @@
     margin: 0;
     padding: 0;
     border: none;
+    
 
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
 }
 
 body {
     background-color: #0c062b;
     color: #FFFFF0;
+    
 }
 
 
@@ -17,6 +26,7 @@ header {
     background-color: black;
     color: #FFFFF0;
     height: 100px;
+    max-width: 100%;
 
 
 }
@@ -132,7 +142,7 @@ header li a {
 
 
 }
-#padding {
+.padding {
     padding-top: 30px;
 }
 
@@ -310,7 +320,10 @@ input {
 
 
     
-@media only screen and (max-width: 450px){
+@media screen and (max-width: 450px){
+    body {
+        max-width: 100%;
+    }
     #logo {
         padding-left: 40px;
     }
@@ -350,6 +363,9 @@ input {
         margin: 0;
         font-size: 90%;
     }
+    .hidden {
+        display: none;
+    }
     #strong {
         margin-top: 20px;
         padding-top: 20px;
@@ -361,7 +377,7 @@ input {
     }
     
     #intro-img {
-        height: 400px;
+        height: 300px;
     }
 
     
@@ -369,11 +385,17 @@ input {
 
  
     .trainer {
-        display: block;
+      
+       
+        
     }
+    
     .trainer img {
         height: 125px;
+        display: block;
+       
     }
+
     
     
     .footer p {
@@ -406,4 +428,8 @@ input {
         font-size: large;
         text-align: right;
     }
+}
+
+@media screen {
+    
 }
