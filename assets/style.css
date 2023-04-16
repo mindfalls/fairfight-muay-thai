@@ -398,8 +398,8 @@ input {
     }
     #contact-footer {
         padding-top: 20px;
-        width: 75%;
-        text-align: left;
+        width: 100%;
+        text-align: center;
     }
     
     footer ul {
@@ -416,7 +416,14 @@ input {
         margin: 10px 20px;
     }
      /* Schedule */
-
+     .headline {
+        width: 100%;
+        text-align: center;
+        padding-top: 50px;
+        text-transform: uppercase;
+        font-family: 'mogra', sans-serif;
+        font-size: medium;
+     }
    table {
     width: 100%;
     margin: 0;
@@ -471,8 +478,8 @@ tr {
 
     #contact-footer {
         padding-top: 20px;
-        width: 75%;
-        text-align: left;
+        width: 100%;
+        text-align:center ;
     }
     footer ul {
         text-align: center;
@@ -489,6 +496,25 @@ tr {
     }
 
      /* Schedule */
+
+     #class-section {
+        margin:0;
+    }
+    
+    .classes {
+    
+        width: 80%;
+        display: inline-table;
+        text-align: center;
+        padding: 10px;
+        font-size: 60%;
+    }
+    .prices {
+        display: inline-table;
+        text-align: center;
+        margin: 20px 20px;
+        font-size: 60%;
+    }
 
    table {
     width: 100%;
