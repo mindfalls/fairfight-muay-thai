@@ -199,6 +199,30 @@ a :hover {
     height: 100px;
     background-color: black;
 }
+#contact-footer {
+    display: inline;
+    padding-top: 20px;
+    width: 75%;
+    
+}
+
+footer ul {
+
+    text-align: right;
+    font-size: x-large;
+}
+
+footer ul li {
+
+    display: inline;
+    text-decoration: none;
+    color: #FFFFF0;
+}
+footer li a {
+    
+    color: #FFFFF0;
+    margin: 10px 20px;
+}
 
 #map {
     text-align: center;
@@ -372,34 +396,57 @@ input {
         display: block;
 
     }
-
-
-
-
-
-
-
+    #contact-footer {
+        padding-top: 20px;
+        width: 75%;
+        text-align: left;
+    }
+    
     footer ul {
-        width: 100%;
-        margin-top: 0;
+        text-align: center;
     }
-
-    footer li {
-
-        margin: 0;
-        padding: 0;
-
+   
+    footer ul li {
+        display: inline;
+        text-decoration: none;
+        color: #FFFFF0;
     }
-
     footer li a {
-
-        bottom: 75px;
-        font-size: large;
-        text-align: right;
+        color: #FFFFF0;
+        margin: 10px 20px;
     }
+     /* Schedule */
+
+   table {
+    width: 100%;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+    letter-spacing: 1px;
+    font-size: 50%;
+}
+
+th {
+    border: 2px solid black;
+    width: 20px;
+}
+
+.no-border {
+    border: none;
+}
+
+tr {
+    height: 20px;
+
+
+}
+
 }
 
 @media screen and (max-width:400px) {
+    header {
+        width: 100%;
+    }
 
     header h1 {
         padding-left: 100px;
@@ -440,5 +487,33 @@ input {
         color: #FFFFF0;
         margin: 10px 20px;
     }
+
+     /* Schedule */
+
+   table {
+    width: 100%;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    background-color: black;
+    letter-spacing: 1px;
+    overflow: hidden;
+    font-size: 40%;
+}
+
+th {
+    border: 2px solid black;
+    width: 20px;
+}
+
+.no-border {
+    border: none;
+}
+
+tr {
+    height: 20px;
+
+
+}
+  
 
 }
