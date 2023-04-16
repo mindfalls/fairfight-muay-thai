@@ -374,12 +374,13 @@ input {
     .trainer img {
         height: 125px;
     }
-    .footer{
+    
+    
+    .footer p {
         text-align: left;
     }
 
     footer p {
-        position: relative;
         width: 100%;
         top: 0;
         margin-left: 0;
