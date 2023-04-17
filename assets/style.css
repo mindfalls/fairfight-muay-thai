@@ -24,7 +24,7 @@ header {
     color: #FFFFF0;
     height: 100px;
     width: 100%;
-    text-align: center;
+
     }
   
 
@@ -32,17 +32,19 @@ header h1 {
    
     text-transform: uppercase;
     background-color: black;
+    }  
 
 /* Nav-Bar */
 
-}
+
 
 header a {
+    font-family: 'mogra'sans-serif;
     text-decoration: none;
     color: #FFFFF0;
     float: left;
     margin: 30px;
-    font-size: x-large;
+    font-size: large;
 }
 
 header a:hover {
@@ -327,37 +329,8 @@ input {
 }
 
 @media screen and (max-width: 1024px) {
-    header {
-        position: relative;
-        font-family: 'mogra', sans-serif;
-        background-color: black;
-        color: #FFFFF0;
-        height: 100px;
-        max-width: 100%;
-    
-    
-    }
-    
-    header h1 {
-        float: left;
-        text-transform: uppercase;
-        margin: 0;
-        padding: 30px 5px 0;
-        background-color: black;
-     
-    
-    
-    
-    }
-    
-    header a {
-        color: #FFFFF0;
-    }
-    #class-section {
-        margin: 10px 10% 10px;
-    }
-    
-    .classes {
+   
+     .classes {
     
         width: 19%;
         display: inline-table;
@@ -366,34 +339,6 @@ input {
     
     }
 
-    
-    
-    /* Nav-Bar */
-    
-    header ul {
-        list-style-type: none;
-        margin: 0;
-        padding: 40px 0 0;
-        overflow: hidden;
-        background-color: black;
-        vertical-align: middle;
-    
-    }
-    
-    header li {
-        float: right;
-        margin-right: 10px;
-    }
-    
-    header li a {
-        display: inline;
-        color: #FFFFF0;
-        text-align: center;
-        padding: 7px 8px;
-        text-decoration: none;
-        font-size: larger;
-    }
-    
     .trainer img {
         width: 100%;
         height: 250px;
@@ -459,35 +404,6 @@ input {
 
 @media screen and (max-width: 768px) {
  
-    
-
-
-    header h1 {
-
-        padding-top: 15px;
-        font-size: medium;
-        padding-left: 130px;
-
-    }
-
-    nav {
-        padding-top: 20px;
-    }
-
-    header ul {
-        padding-top: 5px;
-        font-size: x-small;
-        padding-left: 15px;
-        display: inline;
-
-
-    }
-
-    header li {
-        margin-right: 10px;
-        text-align: center;
-    }
-
     .slogan {
         top: 5%;
         left: 0%;
@@ -549,6 +465,7 @@ input {
         margin: 10px 20px;
     }
      /* Schedule */
+    
      .headline {
         width: 100%;
         text-align: center;
@@ -612,6 +529,23 @@ tr {
 }
 
 @media screen and (max-width:480px) {
+    header a {
+        font-size: medium;
+        text-align: center;
+        float: none;
+        margin: 0;
+    }
+    nav {
+        text-align: center;
+    }
+    header li {
+        float: none;
+        margin-right: 0;
+    }
+    header li a {
+       padding: 0;
+       font-size: medium;
+    }
    
 
 
