@@ -70,7 +70,7 @@ header li {
 header li a {
     color: #FFFFF0;
     text-align: center;
-    padding: 14px 16px;
+    padding: 8px 16px;
     text-decoration: none;
     font-size: larger;
     
@@ -203,6 +203,10 @@ a :hover {
     width:100% ;
     margin : 0 ;
 }
+#map {
+    text-align: center;
+}
+
 
 /* footer*/
 
@@ -212,17 +216,28 @@ a :hover {
     width: 100%;
     height: 100px;
     background-color: black;
+    text-align: center;
+    
 }
+
+.padding {
+    padding-top: 10px;
+
+}
+
 #contact-footer {
     display: inline;
     padding-top: 20px;
+    width: 100%;
     
-    
+}
+#contact-footer p {
+   display: inline;
+   margin-left: 10px;
 }
 
 footer ul {
-
-    text-align: right;
+    text-align: center;
     font-size: x-large;
 }
 
@@ -238,9 +253,6 @@ footer li a {
     margin: 10px 20px;
 }
 
-#map {
-    text-align: center;
-}
 
 /* Schedule */
 
@@ -558,28 +570,11 @@ tr {
        padding: 0;
        font-size: medium;
     }
+    #framemap {
+        height: 200px;
+    }
        
    
-
-
-    #contact-footer {
-        padding-top: 20px;
-        width: 100%;
-        text-align:center ;
-    }
-    footer ul {
-        text-align: center;
-    }
-   
-    footer ul li {
-        display: inline;
-        text-decoration: none;
-        color: #FFFFF0;
-    }
-    footer li a {
-        color: #FFFFF0;
-        margin: 10px 20px;
-    }
 
      /* Schedule */
      .headline {
@@ -647,6 +642,9 @@ select {
 #member-img {
     width: 100%;
     height: auto;
+}
+#inmap {
+    height: 200px;
 }
 
 }
