@@ -191,6 +191,18 @@ a :hover {
     margin-bottom: 50px;
 }
 
+#inmap {
+    height: 400px;
+    width: 100%
+   
+}
+
+#framemap {
+    height: 400px;
+    width:100% ;
+    margin : 0 ;
+}
+
 /* footer*/
 
 .footer {
@@ -719,4 +731,8 @@ select {
     height: auto;
 }
 
+}
+
+@media screen and (max-width:350px) {
+    
 }
