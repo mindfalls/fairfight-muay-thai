@@ -47,7 +47,8 @@ header a {
     font-size: large;
 }
 
-header a:hover {
+a:hover {
+    color: yellow;
     text-decoration: underline;
 }
 
@@ -234,6 +235,10 @@ a :hover {
 #contact-footer p {
    display: inline;
    margin-left: 10px;
+}
+.email {
+    text-decoration: none;
+    color: #FFFFF0;
 }
 
 footer ul {
