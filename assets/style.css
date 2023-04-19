@@ -39,7 +39,7 @@ header h1 {
 
 
 header a {
-    font-family: 'mogra'sans-serif;
+    font-family: 'mogra',sans-serif;
     text-decoration: none;
     color: #c50822;
     float: left;
@@ -377,7 +377,7 @@ textarea {
     font-weight: bolder;
     color: black;
     background-color: #FFFFF0;
-    font-family: 'Lato'sans-serif;
+    font-family: 'Mogra',sans-serif;
 }
 .send:hover {
     background-color: goldenrod;
