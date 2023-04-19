@@ -13,7 +13,7 @@ body {
     padding: 0;
     background-color: black;
     color: #FFFFF0;
-
+    
 }
 
 
@@ -41,7 +41,7 @@ header h1 {
 header a {
     font-family: 'mogra'sans-serif;
     text-decoration: none;
-    color: #FFFFF0;
+    color: #c50822;
     float: left;
     margin: 30px;
     font-size: large;
@@ -112,7 +112,7 @@ header li a {
 .slogan h3 {
     margin-bottom: 10px;
     font-size: 200%;
-    color: #e66e0be7;
+    
 }
 
 
@@ -180,6 +180,9 @@ a :hover {
     height: auto;
     margin: 10px 10px;
 
+}
+.trainer h3 {
+    color: #c50822;
 }
 
 
@@ -270,7 +273,7 @@ footer li a {
     color: #962fbf;
 }
 #twitter {
-    color:  #00acee;
+    color:  #1475e4;
 }
 
 
@@ -285,6 +288,8 @@ footer li a {
     padding-bottom: 20px;
     text-transform: uppercase;
     font-family: 'mogra', sans-serif;
+    color: #1475e4;
+    letter-spacing: 2px;
 }
 
 table {
