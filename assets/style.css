@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     border: none;
-  }
+}
 
 html,
 body {
@@ -13,7 +13,7 @@ body {
     padding: 0;
     background-color: #0c062b;
     color: #FFFFF0;
-    
+
 }
 
 
@@ -25,14 +25,14 @@ header {
     height: 100px;
     width: 100%;
 
-    }
-  
+}
+
 
 header h1 {
-   
+
     text-transform: uppercase;
     background-color: black;
-    }  
+}
 
 /* Nav-Bar */
 
@@ -58,14 +58,14 @@ header ul {
     padding: 0;
     overflow: hidden;
     background-color: black;
-    
+
 }
 
 header li {
     display: inline;
     margin-right: 20px;
     float: right;
-    
+
 }
 
 header li a {
@@ -74,7 +74,7 @@ header li a {
     padding: 8px 16px;
     text-decoration: none;
     font-size: larger;
-    
+
 }
 
 .active {
@@ -125,7 +125,7 @@ header li a {
 
 }
 
- /* Intro text */
+/* Intro text */
 #intro-img {
     width: 100%;
     height: auto;
@@ -177,7 +177,7 @@ a :hover {
     display: inline-table;
     width: 25%;
     height: auto;
-    margin: 10px auto;
+    margin: 10px 10px;
 
 }
 
@@ -197,14 +197,14 @@ a :hover {
 #inmap {
     height: 400px;
     width: 100%
-   
 }
 
 #framemap {
     height: 400px;
-    width:100% ;
-    margin : 0 ;
+    width: 100%;
+    margin: 0;
 }
+
 #map {
     text-align: center;
 }
@@ -219,7 +219,7 @@ a :hover {
     height: 100px;
     background-color: black;
     text-align: center;
-    
+
 }
 
 .padding {
@@ -228,15 +228,16 @@ a :hover {
 }
 
 #contact-footer {
-    display: inline;
     padding-top: 20px;
     width: 100%;
-    
+
 }
+
 #contact-footer p {
-   display: inline;
-   margin-left: 10px;
+    display: inline;
+    margin-left: 10px;
 }
+
 .email {
     text-decoration: none;
     color: #FFFFF0;
@@ -253,8 +254,9 @@ footer ul li {
     text-decoration: none;
     color: #FFFFF0;
 }
+
 footer li a {
-    
+
     color: #FFFFF0;
     margin: 10px 20px;
 }
@@ -280,7 +282,7 @@ table {
 }
 
 th {
-    border: 2px solid #0c062b;
+    border: 2px solid #FFFFF0;
     width: 120px;
 }
 
@@ -330,7 +332,7 @@ tr {
 /* Forms */
 
 form label {
-    
+
     margin-top: 20px;
 }
 
@@ -346,160 +348,142 @@ input {
     background-color: #4f738e;
     cursor: pointer;
 }
+
 textarea {
     margin-top: 20px;
 }
-
-.contact-form {}
 
 .contact {
 
     text-align: center;
 }
 
-@media  screen and (max-width:1600px) {
+@media screen and (max-width:1600px) {
     .trainer img {
-    height: 400px;
+        height: 400px;
     }
-    
+
 }
+
 @media screen and (max-width:1300px) {
     .trainer img {
         height: 300px;
-        }
-    
+    }
+
+
 }
 
 @media screen and (max-width: 1024px) {
-   
+    header a {
+        margin: 30px 20px;
+    }
+
+    header li {
+        margin-right: 0;
+    }
+
+    header li a {
+        padding: 8px 8px 8px 0;
+    }
+
     .trainer img {
-        width: 100%;
-        height: 250px;
-        border-radius: 50%;
+        height: 200px;
     }
-    
-        
-    footer ul {
-        text-align: center;
-        font-size: x-large;
-    }
-    
-    footer ul li {
-    
-        display: inline;
-        text-decoration: none;
-        color: #FFFFF0;
-    }
-    footer li a {
-        
-        color: #FFFFF0;
-        margin: 10px 20px;
-    }
+
     .slogan {
         top: 5%;
-        left: 0%;
+        left: 5%;
         font-size: 50%;
     }
+
     #contact-img {
-        width: 100%;
+        width: 80%;
         height: auto;
-    
+
     }
+
     #member-img {
         width: 100%;
         height: auto;
     }
+
     select {
         margin-bottom: 20px;
     }
+
+    #inmap {
+        height: 275px;
+    }
+
+    #framemap {
+        height: 275px;
+    }
+
+    /* Schedule */
+    #class-section {
+        margin: 20px 5% 20px;
+    }
+
+
 }
 
-
-
 @media screen and (max-width: 768px) {
- 
+    header a {
+        margin: 30px 10px;
+    }
+
     .slogan {
-        top: 5%;
-        left: 0%;
         font-size: 50%;
     }
 
-    .intro-div {
-        overflow: scroll;
-    }
-
+    
     .intro-text {
         top: 2%;
         width: 100%;
         margin: 0;
-        font-size: 90%;
+        font-size: 85%;
     }
 
-    .hidden {
-        display: none;
-    }
-
+   
     #strong {
         margin-top: 20px;
         padding-top: 20px;
-        text-decoration: none;
-        color: #FFFFF0;
-    }
-
-    #strong :hover {
-        text-decoration: underline;
     }
 
     #intro-img {
-        height: 300px;
+        height: 400px;
     }
 
     .trainer img {
-        height: 125px;
+        height: 150px;
         display: block;
 
     }
-    #contact-footer {
-        padding-top: 20px;
-        width: 100%;
-        text-align: center;
-    }
-    
-    footer ul {
-        text-align: center;
-    }
-   
-    footer ul li {
-        display: inline;
-        text-decoration: none;
-        color: #FFFFF0;
-    }
+
     footer li a {
-        color: #FFFFF0;
         margin: 10px 20px;
     }
-     /* Schedule */
     
-     .headline {
-        width: 100%;
-        text-align: center;
-        padding-top: 50px;
-        text-transform: uppercase;
-        font-family: 'mogra', sans-serif;
-        font-size: medium;
-     }
-     #class-section {
-        margin:0;
+    #contact-footer p {
+        margin-left: 0px;
     }
     
+    /* Schedule */
+
+
+    #class-section {
+        margin: 0;
+    }
+
     .classes {
-    
+
         width: 80%;
         display: inline-table;
         text-align: center;
         padding: 10px;
-        font-size: 60%;
+        font-size: 100%;
     }
+
     .prices {
         display: inline-table;
         text-align: center;
@@ -507,109 +491,119 @@ textarea {
         font-size: 60%;
     }
 
-   table {
-    width: 100%;
-    margin: 0;
-    font-family: 'Lato', sans-serif;
-    background-color: black;
-    letter-spacing: 1px;
-    overflow: hidden;
-    font-size: 40%;
-}
+    table {
+        width: 80%;
+        letter-spacing: 3px;
+        font-size: 80%;
+    }
 
-th {
-    border: 2px solid black;
-    width: 20px;
-}
+    th {
+        width: 20px;
+    }
 
-.no-border {
-    border: none;
-}
+    tr {
+        height: 50px;
 
-tr {
-    height: 20px;
-
+    }
 
 }
-#contact-img {
-    width: 100%;
-    height: auto;
+@media screen and (max-width:600px) {
+    header a {
+        margin: 30px 5px;
+    }
+    header li a {
+        padding: 8px 0 8px 0;
+    }
+    #contact-footer p {
+        display: block;
+    }
+    #contact-footer {
+        padding-top: 0;
+    }
+    .hidden {
+        display: none;
+    }
+   
 
-}
-#member-img {
-    width: 100%;
-    height: auto;
-}
+    
 }
 
 @media screen and (max-width:480px) {
     header {
-        height:80px
+        height: 80px
     }
+
     nav {
         padding-top: 10px;
-        }
+    }
+
     nav div {
         text-align: center;
     }
+
     nav div ul {
         display: inline-block;
         text-align: left;
     }
+
     header a {
         font-size: medium;
         float: none;
         margin: 0;
     }
+
     header li {
         margin: 0 5px 0;
-       
+
     }
 
-    
+
     header li a {
-       padding: 0;
-       font-size: medium;
+        padding: 0;
+        font-size: medium;
     }
+
     #framemap {
         height: 200px;
     }
-    
-   .trainer {
-    width: 100%;
-    text-align: center;
-   }
+
+    .trainer {
+        width: 100%;
+        text-align: center;
+    }
+
     .trainer img {
         width: 80%;
         height: 250px;
         border-radius: 50%;
-        
-    }
-       
-   
 
-     /* Schedule */
-     .headline {
+    }
+
+
+
+    /* Schedule */
+    .headline {
         width: 100%;
         text-align: center;
         padding-top: 20px;
         text-transform: uppercase;
         font-family: 'mogra', sans-serif;
         font-size: medium;
-     }
-
-     #class-section {
-        margin:0;
     }
-    
+
+    #class-section {
+        margin: 0;
+    }
+
     .classes {
-    
+
         width: 80%;
         display: inline-table;
         text-align: center;
         padding: 10px;
         font-size: 60%;
     }
+
     .prices {
         display: inline-table;
         text-align: center;
@@ -617,47 +611,49 @@ tr {
         font-size: 60%;
     }
 
-   table {
-    width: 100%;
-    margin: 0;
-    font-family: 'Lato', sans-serif;
-    background-color: black;
-    letter-spacing: 1px;
-    overflow: hidden;
-    font-size: 40%;
-}
+    table {
+        width: 100%;
+        margin: 0;
+        font-family: 'Lato', sans-serif;
+        background-color: black;
+        letter-spacing: 1px;
+        overflow: hidden;
+        font-size: 40%;
+    }
 
-th {
-    border: 2px solid black;
-    width: 20px;
-}
+    th {
+        border: 2px solid black;
+        width: 20px;
+    }
 
-.no-border {
-    border: none;
-}
+    .no-border {
+        border: none;
+    }
 
-tr {
-    height: 20px;
+    tr {
+        height: 20px;
 
 
-}
-  
-/* Contact */
+    }
 
-#contact-img {
-    width: 100%;
-    height: auto;
-}
-select {
-    margin-bottom: 20px;
-}
-#member-img {
-    width: 100%;
-    height: auto;
-}
-#inmap {
-    height: 200px;
-}
+    /* Contact */
+
+    #contact-img {
+        width: 100%;
+        height: auto;
+    }
+
+    select {
+        margin-bottom: 20px;
+    }
+
+    #member-img {
+        width: 100%;
+        height: auto;
+    }
+
+    #inmap {
+        height: 200px;
+    }
 
 }
-
