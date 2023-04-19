@@ -167,7 +167,7 @@ a :hover {
 
 .center {
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     margin-top: 50px;
 }
 
@@ -177,7 +177,7 @@ a :hover {
     display: inline-table;
     width: 25%;
     height: auto;
-    margin: 20px auto;
+    margin: 10px auto;
 
 }
 
@@ -191,7 +191,7 @@ a :hover {
 }
 
 #trainer-text {
-    margin-bottom: 50px;
+    margin-bottom: 25px;
 }
 
 #inmap {
@@ -276,12 +276,12 @@ table {
     margin-right: auto;
     font-family: 'Lato', sans-serif;
     background-color: black;
-    letter-spacing: 3px;
+    letter-spacing: 4px;
 }
 
 th {
-    border: 2px solid black;
-    width: 100px;
+    border: 2px solid #0c062b;
+    width: 120px;
 }
 
 .no-border {
@@ -560,6 +560,17 @@ tr {
     }
     #framemap {
         height: 200px;
+    }
+    
+   .trainer {
+    width: 100%;
+    text-align: center;
+   }
+    .trainer img {
+        width: 80%;
+        height: 250px;
+        border-radius: 50%;
+        
     }
        
    
