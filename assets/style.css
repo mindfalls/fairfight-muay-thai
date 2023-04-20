@@ -578,6 +578,9 @@ textarea {
         float: none;
         margin: 0;
     }
+    .slogan h3{
+        background-color: black;
+    }
 
     header li {
         margin: 0 5px 0;
