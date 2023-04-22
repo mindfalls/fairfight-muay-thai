@@ -357,6 +357,10 @@ textarea {
 /* Media Queries */
 
 @media screen and (max-width:1600px) {
+    .slogan{
+        top: 10%;
+        left: 10%;
+    }
     .trainer img {
         height: 400px;
     }
@@ -514,6 +518,11 @@ textarea {
     header li a {
         padding: 8px 0 8px 0;
     }
+    .slogan {
+        top: 5%;
+        left: 5%;
+    }
+    
 
     #contact-footer p {
         display: block;
