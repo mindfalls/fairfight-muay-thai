@@ -13,6 +13,7 @@ body {
     padding: 0;
     background-color: black;
     color: #FFFFF0;
+    font-family: 'Lato', sans-serif;
 
 }
 
@@ -141,6 +142,7 @@ header li a {
 
 a :hover {
     text-decoration: underline;
+    color: goldenrod;
 }
 
 .center {
@@ -231,7 +233,7 @@ footer ul li {
 footer li a {
     margin: 10px 20px;
 }
-/*soxial media icons*/
+/*social media icons*/
 
 #facebook {
     color: #3b5998;
@@ -295,20 +297,34 @@ tr {
     width: 19%;
     display: inline-table;
     text-align: center;
-
-
+}
+.classes h2 {
+    text-decoration: underline;
+}
+.classes p {
+    margin-top: 10px;
 }
 
+/* Prices section*/
+#go-to-contact {
+    text-decoration: none;
+    color: #FFFFF0;
+}
 .prices {
     display: inline-table;
     text-align: center;
     margin: 20px 20px;
 }
+.prices h2 {
+    text-decoration: underline;
+}
+.prices p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
 
 .wrapper {
-
     text-align: center;
-
 }
 
 /* Forms */
