@@ -310,6 +310,10 @@ tr {
     text-decoration: none;
     color: #FFFFF0;
 }
+#go-to-contact:hover {
+    text-decoration: underline;
+    color: goldenrod;
+}
 .prices {
     display: inline-table;
     text-align: center;

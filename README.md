@@ -1,3 +1,3 @@
 # FAIRFIGHT MUAY THAI
 
-<p>
+<img src="assets/images/responsive-screen.png">
