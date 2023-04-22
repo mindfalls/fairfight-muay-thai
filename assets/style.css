@@ -371,7 +371,9 @@ textarea {
     .trainer img {
         height: 300px;
     }
-
+    .slogan{
+        top: 7.5%;
+    }
 
 }
 
@@ -519,10 +521,10 @@ textarea {
         padding: 8px 0 8px 0;
     }
     .slogan {
-        top: 5%;
+        top: 1%;
         left: 5%;
     }
-    
+
 
     #contact-footer p {
         display: block;

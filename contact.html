@@ -34,9 +34,9 @@
             <h2 class="headline">Send Us a Message!</h2>
             <form action="https://formdump.codeinstitute.net" method="post">
                 <label for="name">Full Name:</label><br>
-                <input type="text" id="name"><br>
+                <input type="text" id="name" required><br>
                 <label for="email">Email:</label><br>
-                <input type="email" name="email" id="email"><br>
+                <input type="email" name="email" id="email" required><br>
                 <label for="subject">Subject</label><br>
                 <select name="subject" id="subject">
                     <option value="personal-training">Personal Training</option>
@@ -44,7 +44,7 @@
                     <option value="membership">Membership</option>
                     <option value="general">General</option>
                 </select><br>
-                <textarea name="message" id="messages" cols="50" rows="10"
+                <textarea name="message" id="messages" cols="50" rows="10" required
                     placeholder="Write your message here!"></textarea><br>
                 <input class="send" type="submit" value="submit">
 
