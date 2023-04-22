@@ -9,44 +9,46 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 ### Project goal
 
-The goal of this website is to attract individuals , ages six (6) and above, of different genders, with our without Muay Thai experience, and who wants to try a unique and fun way of keeping fit.
+The goal of this website is to attract individuals , ages six (6) and above, of different genders, with our without Muay Thai experience, and who wants to try a unique and fun way of keeping fit. The aim is to design a fully functional website that is user-friendly and can be easily accessed on all devices.
 
 ## Features
 
-The Users will basically be everyone old enough to use computers. The following features will be available for them
+The Users will basically be everyone old enough to use computers. The following features will be available for them:
 
 - Navigation bar
 
-The site will provide easy access and user friendly tabs will instantly open and directs the user to the Homepage, the schedules, and the contact details. These will be found on the header of all pages to access the different pages without the user having to click back.
+The site will provide easy access and user friendly tabs which will instantly open and will direct the user to the Homepage, the schedules, and the contact details. These will be found on the header of all pages to access the different pages without the user having to click back.
 
 - The Landing Page
 
-The main page includes a photograp of a Muay Thai fighter giving his respects as part of the pre-fight rituals. It also includes a text overlay of the gym location and the three main values which the gym aims to emulate to its members.
+The main page includes a photograph of a Muay Thai fighter giving his respects as part of the pre-fight ritual. It also includes a text overlay of the gym location and the three main values which the gym aims to emulate to its members.
 
 - Short description of Muay Thai
 
 This section gives the user a brief history and introduction about what the sport is all about and all this information is provided as a text overlay. It includes a photograph of the traditional Muay Thai techniques.
-Also included is a link to the schedules
+Also included is a link to the schedules.
 
-- The trainers
+- The Trainers
 
 The user can find the name and photo of the trainers with brief introductions about their Muay Thai experiences.
 
-- The user is provided with an interactive map which points out the exact location of the gym. This is very helpful especially for fisrst time users who are not familiar with the gyms location
+- Map
+
+The user is provided with an interactive map which points out the exact location of the gym. This is very helpful especially for first time users who are not familiar with the gym location.
 
 - Footer
 
-The user is provided with the different relevant social media platforms, which when clicked, will open to a new tab. This will make the navigation easier for the user
+The user is provided with the different relevant social media platforms, which when clicked, will open to a new tab. This will make the navigation easier for the user.
 
-Also included is th contact information such as the phone number, email address, and the physical address
+Also included is th contact information such as the phone number, email address, and the physical address.
 
 - Schedule 
 
-The user is provided a table showing the various training times and days of the week and for which levels or classes
+The user is provided a table showing the various training times and days of the week and for which levels or classes.
 
 - Classes
 
-This shows the user the different types of Muay Thai classes provided in the gym. Under each class is a short descrition togive the user an idea what to expect and who are include in those classes.
+This shows the user the different types of Muay Thai classes provided in the gym. Under each class is a short description that gives the user an idea what to expect and who are included in those classes.
 
 - Membership prices
 
@@ -62,5 +64,24 @@ Just below the "Send us a message" part is an additional photograph showing some
 
 ## Testing:
 
+The WC3C Markup Validation Service was used to test and validate teh HTML and CSS of the website.
+
+HTML Validation:
+
+CSS Validation:
+
+
+
 ## Credits
+
+- Text contents for the Short description of Muay Thai including photograph was taken from 
+https://eu.yokkao.com/pages/what-is-muay-thai 
+
+- Media
+
+¤ All other photos used in the website are owned by Athit and Sandra Praditphon
+
+
+
+
 
