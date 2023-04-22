@@ -44,3 +44,23 @@ Also included is th contact information such as the phone number, email address,
 
 The user is provided a table showing the various training times and days of the week and for which levels or classes
 
+- Classes
+
+This shows the user the different types of Muay Thai classes provided in the gym. Under each class is a short descrition togive the user an idea what to expect and who are include in those classes.
+
+- Membership prices
+
+Here, the user can see some of the different membership prices provided as well as a link to the contact details for more information regarding price and payment options.
+
+- Contact Us
+
+This provides an easy way of getting in touch with the gym by filling out the online form with the relevant information needed and clicking "Submit" to send the message.
+
+- Additional Photo section 
+
+Just below the "Send us a message" part is an additional photograph showing some of the trainers in their victory pose.
+
+## Testing:
+
+## Credits
+
