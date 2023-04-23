@@ -66,6 +66,48 @@ This provides an easy way of getting in touch with the gym by filling out the on
 
 Just below the "Send us a message" part is an additional photograph showing some of the trainers in their victory pose.
 
+## User Stories:
+
+### First-Time Users :
+
+
+As a first-time user, I would like to know straight away which city the gym is located.
+
+As a first-time user, I would like to know a little history and background information about Muay Thai.
+
+As a first-time user, I would like to easily contact the gym for more information.
+
+As a first-time user, I would like to know more about the trainers.
+
+As a first-time user, I would like to be able to easily find the contact information such as phone and email and the complete address of the gym.
+
+As a first-time user, I would like to see the membership prices and weekly schedules.
+
+As a first-time user, I would like to be able to locate the gym easily.
+
+### Returning Users :
+
+
+As a returning user, I would like to be able to contact the gym easily if I need more information.
+
+As a returning user, I would like to be able to see the weekly schedules and the different classes offered.
+
+As a returning user, I would like to find the gym on different social media sites.
+
+### Site Owner :
+
+
+As a site owner, I want my users to be able to locate the gym easily.
+
+As a site owner, I want my users to be able to find the gym’s contact details and complete address easily.
+
+As a site owner, I would like my users to be able to contact us for more information.
+
+As a site owner, I would like the membership prices, schedules, and different training classes to be readily available for our users.
+
+As a site owner, I would like my users to know who our trainers are.
+
+
 ## Testing :
 
 The WC3C Markup Validation Service was used to test and validate teh HTML and CSS of the website.
