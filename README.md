@@ -86,6 +86,10 @@ Contact : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2
 
 Index : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/)
 
+Schedule : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/schedule.html)
+
+Contact : [Link]()
+
 ## Deployment :
 
 The website was deployed using GitHub Pages by following these steps:

@@ -352,10 +352,9 @@ input {
     cursor: pointer;
 }
 
-textarea {
-    margin-top: 20px;
+select {
+    margin-bottom: 20px;
 }
-
 .contact {
 
     text-align: center;
