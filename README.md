@@ -68,6 +68,8 @@ The WC3C Markup Validation Service was used to test and validate teh HTML and CS
 
 ## HTML Validation :
 
+All tests returned no errors
+
 index : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2F)
 
 Schedule : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fschedule.html)
@@ -76,6 +78,9 @@ Contact : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github
 
 ## CSS Validation :
 
+All tests returned no errors
+
+
 Index : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 Schedule : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fschedule.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
@@ -83,6 +88,9 @@ Schedule : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%
 Contact : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## WAVE Web accesability testing :
+
+All tests returned no errors
+
 
 Index : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/)
 
