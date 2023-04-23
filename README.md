@@ -19,7 +19,7 @@ The Users will basically be everyone old enough to use computers. The following 
 
 <img src="assets/images/nav-bar.png">
 
-The site will provide easy access and user friendly tabs which will instantly open and will direct the user to the Homepage, the schedules, and the contact details. These will be found on the header of all pages to access the different pages without the user having to click back.
+The site will provide easy access and user friendly tabs which will instantly open and will direct the user to the Homepage, the schedules, and the contact details with just one click. These will be found on the header of all pages to access the different pages without the user having to click back.
 
 - The Landing Page
 
