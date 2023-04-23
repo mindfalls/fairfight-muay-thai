@@ -84,7 +84,7 @@ Contact : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2
 
 ## WAVE Web accesability testing :
 
-
+Index : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/)
 
 ## Deployment :
 
