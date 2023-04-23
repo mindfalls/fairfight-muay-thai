@@ -17,9 +17,13 @@ The Users will basically be everyone old enough to use computers. The following 
 
 - Navigation bar
 
+<img src="assets/images/nav-bar.png">
+
 The site will provide easy access and user friendly tabs which will instantly open and will direct the user to the Homepage, the schedules, and the contact details. These will be found on the header of all pages to access the different pages without the user having to click back.
 
 - The Landing Page
+
+<img src="assets/images/hero.png">
 
 The main page includes a photograph of a Muay Thai fighter giving his respects as part of the pre-fight ritual. It also includes a text overlay of the gym location and the three main values which the gym aims to emulate to its members.
 
