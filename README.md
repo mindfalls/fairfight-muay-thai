@@ -66,9 +66,16 @@ Just below the "Send us a message" part is an additional photograph showing some
 
 The WC3C Markup Validation Service was used to test and validate teh HTML and CSS of the website.
 
-HTML Validation:
+## HTML Validation:
 
-CSS Validation:
+index : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2F)
+
+Schedule : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fschedule.html)
+
+Contact : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fcontact.html)
+
+## CSS Validation:
+
 
 
 
