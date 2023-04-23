@@ -88,7 +88,7 @@ Index : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairf
 
 Schedule : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/schedule.html)
 
-Contact : [Link]()
+Contact : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/contact.html)
 
 ## Deployment :
 
