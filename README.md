@@ -2,16 +2,16 @@
 
 ## project overview
 
-### Subject: 
+### Subject : 
 To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 <img src="assets/images/responsive-screen.png">
 
-### Project goal
+### Project goal :
 
 The goal of this website is to attract individuals , ages six (6) and above, of different genders, with our without Muay Thai experience, and who wants to try a unique and fun way of keeping fit. The aim is to design a fully functional website that is user-friendly and can be easily accessed on all devices.
 
-## Features
+## Features :
 
 The Users will basically be everyone old enough to use computers. The following features will be available for them:
 
@@ -62,11 +62,11 @@ This provides an easy way of getting in touch with the gym by filling out the on
 
 Just below the "Send us a message" part is an additional photograph showing some of the trainers in their victory pose.
 
-## Testing:
+## Testing :
 
 The WC3C Markup Validation Service was used to test and validate teh HTML and CSS of the website.
 
-## HTML Validation:
+## HTML Validation :
 
 index : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2F)
 
@@ -74,13 +74,28 @@ Schedule : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.githu
 
 Contact : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fcontact.html)
 
-## CSS Validation:
+## CSS Validation :
 
 Index : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 Schedule : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fschedule.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 Contact : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+## WAVE Web accesability testing :
+
+
+
+## Deployment :
+
+The website was deployed using GitHub Pages by following these steps:
+
+1. In the GitHub repository navigate to the Settings tab
+2. On the left-hand menu select Pages
+3. For the source select Branch: master
+4. After the webpage refreshes automatically you will see a ribbon on the top saying: Your site is live at
+
+https://mindfalls.github.io/fairfight-muay-thai/
 
 
 
