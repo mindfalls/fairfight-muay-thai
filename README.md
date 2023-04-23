@@ -76,7 +76,7 @@ Contact : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github
 
 ## CSS Validation:
 
-
+Contact : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 
 ## Credits
