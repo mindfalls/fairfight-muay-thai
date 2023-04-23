@@ -66,6 +66,41 @@ This provides an easy way of getting in touch with the gym by filling out the on
 
 Just below the "Send us a message" part is an additional photograph showing some of the trainers in their victory pose.
 
+## Design
+
+## Layout
+
+I specifically chose this simple yet slick lay out because it matches the theme of the gym, simple, very straightforward and all about Muay Thai.
+
+## Colours
+
+The name itself, Fairfight Muay Thai gym, focuses only on Muay Thai so all the colours I used are those that are heavily connected to the sport.
+
+I went with a black and white background because it symbolizes fairness and equality in sports and the new official fights have introduced black and white corners in the ring instead of the red and blue corners. 
+
+This colour combination is also very easy on the eyes.
+
+Red is a very prominent and fierce colour that is very commonly used in Muay Thai. On black background, it stands out more which is perfect for the title.
+
+Blue is another dominant colour used in Muay Thai and it is also very subtle and soft on the eyes. 
+
+I also added the Golden Rod colour which works well with the dark background.
+
+Additional colours used are for the social media icons in the site.
+
+The specific colours I used on the site are as follows:
+
+1.	Black:
+2.	White:
+3.	Red:
+4.	Blue:
+5.	Golden Rod:
+6.  Facebook blue icon:
+7.	Instagram purple icon:
+8.	Twitter blue icon:
+
+All colours were taken from --------- and I tested them several times before settling for the right shade.
+
 ## User Stories:
 
 ### First-Time Users :
