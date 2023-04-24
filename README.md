@@ -253,6 +253,15 @@ Schedule : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fa
 
 Contact : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/contact.html)
 
+## Performance
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. All aspects performing well.
+
+index : 
+
+schedule : 
+
+contact : 
+
 ## Deployment :
 
 The website was deployed using GitHub Pages by following these steps:

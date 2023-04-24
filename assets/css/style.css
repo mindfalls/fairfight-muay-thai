@@ -107,7 +107,7 @@ header li a {
 
 #hero {
     width: 100%;
-    height: auto;
+    height: 1500px;
 }
 
 /* Intro text */
@@ -387,6 +387,9 @@ select {
 }
 
 @media screen and (max-width:1300px) {
+    #hero {
+        height: 1200px;
+    }
     .trainer img {
         width: 300px;
         height: 300px;
@@ -408,6 +411,9 @@ select {
 
     header li a {
         padding: 8px 8px 8px 0;
+    }
+    #hero {
+        height: 800px;
     }
 
     .trainer img {
@@ -453,6 +459,9 @@ select {
 @media screen and (max-width: 768px) {
     header a {
         margin: 30px 10px;
+    }
+    #hero {
+        height: 600px;
     }
 
     .slogan {
@@ -539,6 +548,9 @@ select {
     header li a {
         padding: 8px 0 8px 0;
     }
+    #hero {
+        height: 450px;
+    }
     .slogan {
         top: 1%;
         left: 5%;
@@ -585,6 +597,9 @@ select {
         font-size: medium;
         float: none;
         margin: 0;
+    }
+    #hero {
+        height: 350px;
     }
 
     .slogan h3 {
