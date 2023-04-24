@@ -165,7 +165,7 @@ a :hover {
 }
 
 .trainer img {
-    width: 100%;
+    width: 425px;
     height: 425px;
     border-radius: 50%;
 }
@@ -389,6 +389,7 @@ select {
 
 @media screen and (max-width:1300px) {
     .trainer img {
+        width: 300px;
         height: 300px;
     }
     .slogan{
@@ -411,6 +412,7 @@ select {
     }
 
     .trainer img {
+        width: 200px;
         height: 200px;
     }
 
@@ -544,6 +546,10 @@ select {
         top: 1%;
         left: 5%;
     }
+    .trainer img {
+        height: 150px;
+        width: 150px;
+    }
 
 
     #contact-footer p {
@@ -611,7 +617,7 @@ select {
     }
 
     .trainer img {
-        width: 100%;
+        width: 250px;
         height: 250px;
         border-radius: 50%;
 
