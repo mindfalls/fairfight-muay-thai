@@ -258,9 +258,15 @@ Google Lighthouse in Google Chrome Developer Tools was used to test the performa
 
 index : 
 
+<img src="docs/lighthouse/index-test.png">
+
 schedule : 
 
+<img src="docs/lighthouse/schedule-test.png">
+
 contact : 
+
+<img src="docs/lighthouse/contact-test.png">
 
 ## Deployment :
 
