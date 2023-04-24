@@ -157,7 +157,6 @@ a :hover {
     width: 25%;
     height: auto;
     margin: 10px 10px;
-
 }
 
 .trainer h3 {
@@ -449,8 +448,6 @@ select {
     #class-section {
         margin: 20px 5% 20px;
     }
-
-
 }
 
 @media screen and (max-width: 768px) {
@@ -564,8 +561,6 @@ select {
         display: none;
     }
 
-
-
 }
 
 @media screen and (max-width:480px) {
@@ -623,9 +618,7 @@ select {
 
     }
 
-
-
-    /* Schedule */
+ /* Schedule */
 
     .headline {
         width: 100%;
@@ -673,8 +666,6 @@ select {
 
     tr {
         height: 40px;
-
-
     }
 
     /* Contact */
