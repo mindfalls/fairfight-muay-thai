@@ -1,6 +1,9 @@
 # FAIRFIGHT MUAY THAI (FMT) GYM
 
+Developer : Mattias Lundkvist
+
 ## project overview
+[Live webpage](https://mindfalls.github.io/fairfight-muay-thai/)
 
 ### Subject : 
 To design and develop a dynamic and attractive website for a Muay Thai gym.
