@@ -116,33 +116,33 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 
 The site will provide easy access and user friendly tabs which will instantly open and will direct the user to the Homepage, the schedules, and the contact details with just one click. These will be found on the header of all pages to access the different pages without the user having to click back.
 
-- The Landing Page
+#### The Landing Page
 
 <img src="docs/features/hero.png">
 
 The main page includes a photograph of a Muay Thai fighter giving his respects as part of the pre-fight ritual. It also includes a text overlay of the gym location and the three main values which the gym aims to emulate to its members.
 
-- Short description of Muay Thai
+#### Short description of Muay Thai
 
 <img src="docs/features/intro-text.png">
 
 This section gives the user a brief history and introduction about what the sport is all about and all this information is provided as a text overlay. It includes a photograph of the traditional Muay Thai techniques.
 Also included is a link to the schedules.
 
-- The Trainers
+#### The Trainers
 
 <img src="docs/features/trainers.png">
 
 The user can find the name and photo of the trainers with brief introductions about their Muay Thai experiences.
 
 
-- Map
+#### Map
 
 <img src="docs/features/map.png">
 
 The user is provided with an interactive map which points out the exact location of the gym. This is very helpful especially for first time users who are not familiar with the gym location.
 
-- Footer
+#### Footer
 
 <img src="docs/features/footer.png">
 
@@ -150,31 +150,31 @@ The user is provided with the different relevant social media platforms, which w
 
 Also included is th contact information such as the phone number, email address, and the physical address.
 
-- Schedule 
+#### Schedule 
 
 <img src="docs/features/schedule.png">
 
 The user is provided a table showing the various training times and days of the week and for which levels or classes.
 
-- Classes
+#### Classes
 
 <img src="docs/features/classes.png">
 
 This shows the user the different types of Muay Thai classes provided in the gym. Under each class is a short description that gives the user an idea what to expect and who are included in those classes.
 
-- Membership prices
+#### Membership prices
 
 <img src="docs/features/membership.png">
 
 Here, the user can see some of the different membership prices provided as well as a link to the contact details for more information regarding price and payment options.
 
-- Contact Us
+#### Contact Us
 
 <img src="docs/features/contact.png">
 
 This provides an easy way of getting in touch with the gym by filling out the online form with the relevant information needed and clicking "Submit" to send the message.
 
-- Additional Photo section 
+#### Additional Photo section 
 
 <img src="docs/features/contact-photo.png">
 
