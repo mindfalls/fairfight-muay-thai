@@ -116,7 +116,7 @@ Also included is th contact information such as the phone number, email address,
 
 - Schedule 
 
-<img src="docs/features/schedule">
+<img src="docs/features/schedule.png">
 
 The user is provided a table showing the various training times and days of the week and for which levels or classes.
 
