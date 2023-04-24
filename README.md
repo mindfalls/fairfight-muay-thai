@@ -29,18 +29,27 @@ The main page includes a photograph of a Muay Thai fighter giving his respects a
 
 - Short description of Muay Thai
 
+<img src="assets/images/intro-text.png">
+
 This section gives the user a brief history and introduction about what the sport is all about and all this information is provided as a text overlay. It includes a photograph of the traditional Muay Thai techniques.
 Also included is a link to the schedules.
 
 - The Trainers
 
+<img src="assets/images/trainers.png">
+
 The user can find the name and photo of the trainers with brief introductions about their Muay Thai experiences.
 
+
 - Map
+
+<img src="assets/images/map.png">
 
 The user is provided with an interactive map which points out the exact location of the gym. This is very helpful especially for first time users who are not familiar with the gym location.
 
 - Footer
+
+<img src="assets/images/footer.png">
 
 The user is provided with the different relevant social media platforms, which when clicked, will open to a new tab. This will make the navigation easier for the user.
 
@@ -48,21 +57,31 @@ Also included is th contact information such as the phone number, email address,
 
 - Schedule 
 
+<img src="assets/images/schedule">
+
 The user is provided a table showing the various training times and days of the week and for which levels or classes.
 
 - Classes
+
+<img src="assets/images/classes.png">
 
 This shows the user the different types of Muay Thai classes provided in the gym. Under each class is a short description that gives the user an idea what to expect and who are included in those classes.
 
 - Membership prices
 
+<img src="assets/images/membership.png">
+
 Here, the user can see some of the different membership prices provided as well as a link to the contact details for more information regarding price and payment options.
 
 - Contact Us
 
+<img src="assets/images/contact.png">
+
 This provides an easy way of getting in touch with the gym by filling out the online form with the relevant information needed and clicking "Submit" to send the message.
 
 - Additional Photo section 
+
+<img src="assets/images/contact-photo.png">
 
 Just below the "Send us a message" part is an additional photograph showing some of the trainers in their victory pose.
 
