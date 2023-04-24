@@ -5,12 +5,48 @@ Developer : Mattias Lundkvist
 ## project overview
 [Live webpage](https://mindfalls.github.io/fairfight-muay-thai/)
 
-### Subject : 
+## Subject : 
 To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 <img src="docs/responsive-screen.png">
 
-### Project goal :
+
+
+## Table of contents
+
+
+1. [Project Goal](#project-goal)
+    1. [User Goals](#user-goals)
+    2. [Site Owner Goals](#site-owner-goals)
+2. [User Experience](#user-experience)
+    1. [Target Audience](#target-audience)
+    2. [User Requirements and Expectations](#user-requirements-and-expectations)
+    3. [User Stories](#user-stories)
+3. [Design](#design)
+    1. [Design Choices](#design-choices)
+    2. [Colours](#colours)
+    3. [Fonts](#fonts)
+    4. [Structure](#structure)
+    5. [Wireframes](#wireframes)
+4. [Technologies Used](#technologies-used)
+    1. [Languages](#languages)
+    2. [Frameworks and Tools](#frameworks-and-tools)
+5. [Features](#features)
+6. [Testing](#testing)
+    1. [HTML Validation](#HTML-validation)
+    2. [CSS Validation](#CSS-validation)
+    3. [Accessibility](#accessibility)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatibility)
+    7. [Testing user stories](#testing-user-stories)
+8. [Bugs](#bugs)
+9. [Deployment](#deployment)
+10. [Credits](#credits)
+11. [Acknowledgements](#acknowledgements)
+
+
+## Project goal :
 
 The goal of this website is to attract individuals , ages six (6) and above, of different genders, with our without Muay Thai experience, and who wants to try a unique and fun way of keeping fit. The aim is to design a fully functional website that is user-friendly and can be easily accessed on all devices.
 
@@ -74,7 +110,7 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 
 
 
-- Navigation bar
+#### Navigation bar
 
 <img src="docs/features/nav-bar.png">
 
