@@ -11,6 +11,20 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 The goal of this website is to attract individuals , ages six (6) and above, of different genders, with our without Muay Thai experience, and who wants to try a unique and fun way of keeping fit. The aim is to design a fully functional website that is user-friendly and can be easily accessed on all devices.
 
+## User Experience :
+
+- Ages 6 and up
+- Anyone who is interested to learn Muay Thai and get fit
+- All levels and abilities welcome
+
+## User requirements and expectations :
+
+- An easily navigated website.
+- Links works as expected.
+- Good presentation and a visually appealing design regardless of screen size.
+- An easy way to contact the gym.
+- Simple content that the user can skim read.
+
 
 ## User Stories:
 
@@ -55,7 +69,7 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 
 ## Features :
 
-The Users will basically be everyone old enough to use computers. The following features will be available for them:
+
 
 - Navigation bar
 
