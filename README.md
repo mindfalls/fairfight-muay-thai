@@ -5,11 +5,53 @@
 ### Subject : 
 To design and develop a dynamic and attractive website for a Muay Thai gym.
 
-<img src="assets/images/responsive-screen.png">
+<img src="docs/responsive-screen.png">
 
 ### Project goal :
 
 The goal of this website is to attract individuals , ages six (6) and above, of different genders, with our without Muay Thai experience, and who wants to try a unique and fun way of keeping fit. The aim is to design a fully functional website that is user-friendly and can be easily accessed on all devices.
+
+
+## User Stories:
+
+### First-Time Users :
+
+
+1. As a first-time user, I would like to know straight away which city the gym is located.
+
+2. As a first-time user, I would like to know a little history and background information about Muay Thai.
+
+3. As a first-time user, I would like to easily contact the gym for more information.
+
+4. As a first-time user, I would like to know more about the trainers.
+
+5. As a first-time user, I would like to be able to easily find the contact information such as phone and email and the complete address of the gym.
+
+6. As a first-time user, I would like to see the membership prices and weekly schedules.
+
+7. As a first-time user, I would like to be able to locate the gym easily.
+
+### Returning Users :
+
+
+8. As a returning user, I would like to be able to contact the gym easily if I need more information.
+
+9. As a returning user, I would like to be able to see the weekly schedules and the different classes offered.
+
+10. As a returning user, I would like to find the gym on different social media sites.
+
+### Site Owner :
+
+
+11. As a site owner, I want my users to be able to locate the gym easily.
+
+12. As a site owner, I want my users to be able to find the gym’s contact details and complete address easily.
+
+13. As a site owner, I would like my users to be able to contact us for more information.
+
+14. As a site owner, I would like the membership prices, schedules, and different training classes to be readily available for our users.
+
+15. As a site owner, I would like my users to know who our trainers are.
 
 ## Features :
 
@@ -17,39 +59,39 @@ The Users will basically be everyone old enough to use computers. The following 
 
 - Navigation bar
 
-<img src="assets/images/nav-bar.png">
+<img src="docs/images/nav-bar.png">
 
 The site will provide easy access and user friendly tabs which will instantly open and will direct the user to the Homepage, the schedules, and the contact details with just one click. These will be found on the header of all pages to access the different pages without the user having to click back.
 
 - The Landing Page
 
-<img src="assets/images/hero.png">
+<img src="docs/images/hero.png">
 
 The main page includes a photograph of a Muay Thai fighter giving his respects as part of the pre-fight ritual. It also includes a text overlay of the gym location and the three main values which the gym aims to emulate to its members.
 
 - Short description of Muay Thai
 
-<img src="assets/images/intro-text.png">
+<img src="docs/images/intro-text.png">
 
 This section gives the user a brief history and introduction about what the sport is all about and all this information is provided as a text overlay. It includes a photograph of the traditional Muay Thai techniques.
 Also included is a link to the schedules.
 
 - The Trainers
 
-<img src="assets/images/trainers.png">
+<img src="docs/images/trainers.png">
 
 The user can find the name and photo of the trainers with brief introductions about their Muay Thai experiences.
 
 
 - Map
 
-<img src="assets/images/map.png">
+<img src="docs/images/map.png">
 
 The user is provided with an interactive map which points out the exact location of the gym. This is very helpful especially for first time users who are not familiar with the gym location.
 
 - Footer
 
-<img src="assets/images/footer.png">
+<img src="docs/docs/footer.png">
 
 The user is provided with the different relevant social media platforms, which when clicked, will open to a new tab. This will make the navigation easier for the user.
 
@@ -57,31 +99,31 @@ Also included is th contact information such as the phone number, email address,
 
 - Schedule 
 
-<img src="assets/images/schedule">
+<img src="docs/images/schedule">
 
 The user is provided a table showing the various training times and days of the week and for which levels or classes.
 
 - Classes
 
-<img src="assets/images/classes.png">
+<img src="docs/images/classes.png">
 
 This shows the user the different types of Muay Thai classes provided in the gym. Under each class is a short description that gives the user an idea what to expect and who are included in those classes.
 
 - Membership prices
 
-<img src="assets/images/membership.png">
+<img src="docs/images/membership.png">
 
 Here, the user can see some of the different membership prices provided as well as a link to the contact details for more information regarding price and payment options.
 
 - Contact Us
 
-<img src="assets/images/contact.png">
+<img src="docs/images/contact.png">
 
 This provides an easy way of getting in touch with the gym by filling out the online form with the relevant information needed and clicking "Submit" to send the message.
 
 - Additional Photo section 
 
-<img src="assets/images/contact-photo.png">
+<img src="docs/images/contact-photo.png">
 
 Just below the "Send us a message" part is an additional photograph showing some of the trainers in their victory pose.
 
@@ -120,46 +162,6 @@ The specific colours I used on the site are as follows:
 
 All colours were taken from HTML color picker(https://www.w3schools.com/colors/colors_picker.asp) and I tested them several times before settling for the right shade.
 
-## User Stories:
-
-### First-Time Users :
-
-
-As a first-time user, I would like to know straight away which city the gym is located.
-
-As a first-time user, I would like to know a little history and background information about Muay Thai.
-
-As a first-time user, I would like to easily contact the gym for more information.
-
-As a first-time user, I would like to know more about the trainers.
-
-As a first-time user, I would like to be able to easily find the contact information such as phone and email and the complete address of the gym.
-
-As a first-time user, I would like to see the membership prices and weekly schedules.
-
-As a first-time user, I would like to be able to locate the gym easily.
-
-### Returning Users :
-
-
-As a returning user, I would like to be able to contact the gym easily if I need more information.
-
-As a returning user, I would like to be able to see the weekly schedules and the different classes offered.
-
-As a returning user, I would like to find the gym on different social media sites.
-
-### Site Owner :
-
-
-As a site owner, I want my users to be able to locate the gym easily.
-
-As a site owner, I want my users to be able to find the gym’s contact details and complete address easily.
-
-As a site owner, I would like my users to be able to contact us for more information.
-
-As a site owner, I would like the membership prices, schedules, and different training classes to be readily available for our users.
-
-As a site owner, I would like my users to know who our trainers are.
 
 
 ## Testing :

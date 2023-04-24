@@ -113,7 +113,7 @@ header li a {
 /* Intro text */
 #intro-img {
     width: 100%;
-    height: auto;
+    height: 1200px;
     z-index: -1;
 }
 
