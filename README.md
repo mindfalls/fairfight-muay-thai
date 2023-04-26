@@ -382,6 +382,8 @@ The website was tested on the following browsers:
 
 10. As a returning user, I would like to find the gym on different social media sites.
 
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
 | Footer| On any page scroll down to footer| on the footer there are links for various social media platforms| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
@@ -424,6 +426,7 @@ The website was tested on the following browsers:
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 15. As a site owner, I would like my users to know who our trainers are.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | The Trainers| On index page scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
