@@ -217,11 +217,11 @@ All colours were taken from HTML color picker(https://www.w3schools.com/colors/c
 
 ### Wireframes
 
-<details><summary>Home</summary><img src="docs/wireframes/home-wireframe"></details>
+<details><summary>Home</summary><img src="docs/wireframes/home-wireframe.png"></details>
 
-<details><summary>Schedule</summary><img src="docs/wireframes/schedule-wireframe"></details>
+<details><summary>Schedule</summary><img src="docs/wireframes/schedule-wireframe.png"></details>
 
-<details><summary>Contact</summary><img src="docs/wireframes/contact-wireframe"></details>
+<details><summary>Contact</summary><img src="docs/wireframes/contact-wireframe.png"></details>
 
 
 
