@@ -300,12 +300,19 @@ The website was tested on the following browsers:
 ### First time users
 
 1. As a first-time user, I would like to know straight away which city the gym is located.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Landing page| open home page| Information of which city gym is located is on top left corner of page| Works as expected |
+
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 2. As a first-time user, I would like to know a little history and background information about Muay Thai.
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 3. As a first-time user, I would like to easily contact the gym for more information.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 4. As a first-time user, I would like to know more about the trainers.
@@ -316,6 +323,9 @@ The website was tested on the following browsers:
 
 6. As a first-time user, I would like to see the membership prices and weekly schedules.
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+
 
 7. As a first-time user, I would like to be able to locate the gym easily.
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
