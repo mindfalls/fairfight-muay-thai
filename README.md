@@ -309,25 +309,55 @@ The website was tested on the following browsers:
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 2. As a first-time user, I would like to know a little history and background information about Muay Thai.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Short description of Muay Thai| On index page scroll down to find information| Displays short information about history of Muay Thai| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 3. As a first-time user, I would like to easily contact the gym for more information.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
+| Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 4. As a first-time user, I would like to know more about the trainers.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| The Trainers| On index page scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 5. As a first-time user, I would like to be able to easily find the contact information such as phone and email and the complete address of the gym.
+
+ **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 6. As a first-time user, I would like to see the membership prices and weekly schedules.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navigation Bar| Click Schedule link| Brings user to schedule page| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
-
-
 
 7. As a first-time user, I would like to be able to locate the gym easily.
+
+ **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map| On index page scroll down to find the map| Shows the user the gyms location on the map| Works as expected |
+| Footer| On any page scroll down to footer| on footer is the physical address for the gym| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 
@@ -335,9 +365,19 @@ The website was tested on the following browsers:
 
 
 8. As a returning user, I would like to be able to contact the gym easily if I need more information.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+ Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
+ | Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 9. As a returning user, I would like to be able to see the weekly schedules and the different classes offered.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navigation Bar| Click Schedule link| Brings user to schedule page| Works as expected |
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 10. As a returning user, I would like to find the gym on different social media sites.
