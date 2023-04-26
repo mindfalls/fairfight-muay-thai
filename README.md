@@ -215,6 +215,17 @@ The specific colours I used on the site are as follows:
 
 All colours were taken from HTML color picker(https://www.w3schools.com/colors/colors_picker.asp) and I tested them several times before settling for the right shade.
 
+### Wireframes
+
+<details><summary>Home</summary><img src="docs/wireframes/home-wireframe"></details>
+
+<details><summary>Schedule</summary><img src="docs/wireframes/schedule-wireframe"></details>
+
+<details><summary>Contact</summary><img src="docs/wireframes/contact-wireframe"></details>
+
+
+
+
 
 
 ## Testing :
