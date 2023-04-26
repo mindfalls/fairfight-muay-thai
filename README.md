@@ -295,6 +295,65 @@ The website was tested on the following browsers:
 - Apple Safari
 - Mozilla Firefox
 
+### User stories testing
+
+### First time users
+
+1. As a first-time user, I would like to know straight away which city the gym is located.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+2. As a first-time user, I would like to know a little history and background information about Muay Thai.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+3. As a first-time user, I would like to easily contact the gym for more information.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+4. As a first-time user, I would like to know more about the trainers.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+5. As a first-time user, I would like to be able to easily find the contact information such as phone and email and the complete address of the gym.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+6. As a first-time user, I would like to see the membership prices and weekly schedules.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+7. As a first-time user, I would like to be able to locate the gym easily.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+
+### Returning Users :
+
+
+8. As a returning user, I would like to be able to contact the gym easily if I need more information.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+9. As a returning user, I would like to be able to see the weekly schedules and the different classes offered.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+10. As a returning user, I would like to find the gym on different social media sites.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+
+### Site Owner :
+
+
+11. As a site owner, I want my users to be able to locate the gym easily.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+12. As a site owner, I want my users to be able to find the gym’s contact details and complete address easily.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+13. As a site owner, I would like my users to be able to contact us for more information.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+14. As a site owner, I would like the membership prices, schedules, and different training classes to be readily available for our users.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+15. As a site owner, I would like my users to know who our trainers are.
+<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+
+
 ## Deployment :
 
 The website was deployed using GitHub Pages by following these steps:
