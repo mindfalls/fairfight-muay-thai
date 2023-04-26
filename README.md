@@ -33,7 +33,7 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
     2. [Frameworks and Tools](#frameworks-and-tools)
 5. [Features](#features)
 6. [Testing](#testing)
-    1. [HTML Validation](#HTML-validation)
+    1. [HTML Validation](#HTML-Validation)
     2. [CSS Validation](#CSS-validation)
     3. [Accessibility](#accessibility)
     4. [Performance](#performance)
@@ -232,7 +232,7 @@ All colours were taken from HTML color picker(https://www.w3schools.com/colors/c
 
 The WC3C Markup Validation Service was used to test and validate teh HTML and CSS of the website.
 
-## HTML Validation :
+### HTML Validation
 
 All tests returned no errors
 
@@ -306,7 +306,7 @@ The website was tested on the following browsers:
 | Landing page| open home page| Information of which city gym is located is on top left corner of page| Works as expected |
 
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story1.png"></details>
 
 2. As a first-time user, I would like to know a little history and background information about Muay Thai.
 
@@ -314,7 +314,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Short description of Muay Thai| On index page scroll down to find information| Displays short information about history of Muay Thai| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story2.png"></details>
 
 3. As a first-time user, I would like to easily contact the gym for more information.
 
@@ -323,8 +323,9 @@ The website was tested on the following browsers:
 | Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
 | Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story3.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story3-1.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story3-3.png"></details>
 
 4. As a first-time user, I would like to know more about the trainers.
 
@@ -332,7 +333,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | The Trainers| On index page scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story4.png"></details>
 
 5. As a first-time user, I would like to be able to easily find the contact information such as phone and email and the complete address of the gym.
 
@@ -340,7 +341,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story5.png"></details>
 
 6. As a first-time user, I would like to see the membership prices and weekly schedules.
 
@@ -348,8 +349,9 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Navigation Bar| Click Schedule link| Brings user to schedule page| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story6.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story6-1.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story6-2.png"></details>
 
 7. As a first-time user, I would like to be able to locate the gym easily.
 
@@ -358,7 +360,7 @@ The website was tested on the following browsers:
 | Map| On index page scroll down to find the map| Shows the user the gyms location on the map| Works as expected |
 | Footer| On any page scroll down to footer| on footer is the physical address for the gym| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story7.png"></details>
 
 
 ### Returning Users :
@@ -371,14 +373,17 @@ The website was tested on the following browsers:
 |Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
 | Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story3.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story3-1.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story3-3.png"></details>
 
 9. As a returning user, I would like to be able to see the weekly schedules and the different classes offered.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Navigation Bar| Click Schedule link| Brings user to schedule page| Works as expected |
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+<details><summary></summary><img src="docs/userstories/user-story8.png"></details>
 
 10. As a returning user, I would like to find the gym on different social media sites.
 
@@ -386,7 +391,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Footer| On any page scroll down to footer| on the footer there are links for various social media platforms| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story10.png"></details>
 
 
 ### Site Owner :
@@ -398,7 +403,9 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Map| On index page scroll down to find the map| Shows the user the gyms location on the map| Works as expected |
 | Footer| On any page scroll down to footer| on footer is the physical address for the gym| Works as expected |
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+
+<details><summary></summary><img src="docs/userstories/user-story7.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story5.png"></details>
 
 12. As a site owner, I want my users to be able to find the gym’s contact details and complete address easily.
 
@@ -406,7 +413,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Footer| On any page scroll down to footer| on footer is phone number, email address, and physical address| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story5.png"></details>
 
 13. As a site owner, I would like my users to be able to contact us for more information.
 
@@ -415,7 +422,10 @@ The website was tested on the following browsers:
 | Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
 | Footer| On any page scroll down to footer| on footer is phone number, email address, and physical address| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story3.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story3-1.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story5.png"></details>
+
 
 14. As a site owner, I would like the membership prices, schedules, and different training classes to be readily available for our users.
 
@@ -423,7 +433,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | Navigation Bar| Click Schedule link| Brings user to schedule page| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story9.png"></details>
 
 15. As a site owner, I would like my users to know who our trainers are.
 
@@ -431,7 +441,7 @@ The website was tested on the following browsers:
 |-------------|------------|---------------------|-------------------|
 | The Trainers| On index page scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
 
-<details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
+<details><summary></summary><img src="docs/userstories/user-story4.png"></details>
 
 
 
