@@ -336,7 +336,7 @@ The website was tested on the following browsers:
 
 5. As a first-time user, I would like to be able to easily find the contact information such as phone and email and the complete address of the gym.
 
- **Feature** | **Action** | **Expected Result** | **Actual Result** |
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
 
@@ -368,8 +368,8 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
- Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
- | Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
+|Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
+| Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
@@ -381,6 +381,9 @@ The website was tested on the following browsers:
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 10. As a returning user, I would like to find the gym on different social media sites.
+
+| Footer| On any page scroll down to footer| on the footer there are links for various social media platforms| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 
@@ -388,18 +391,43 @@ The website was tested on the following browsers:
 
 
 11. As a site owner, I want my users to be able to locate the gym easily.
+
+ **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Map| On index page scroll down to find the map| Shows the user the gyms location on the map| Works as expected |
+| Footer| On any page scroll down to footer| on footer is the physical address for the gym| Works as expected |
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 12. As a site owner, I want my users to be able to find the gym’s contact details and complete address easily.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer| On any page scroll down to footer| on footer is phone number, email address, and physical address| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 13. As a site owner, I would like my users to be able to contact us for more information.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
+| Footer| On any page scroll down to footer| on footer is phone number, email address, and physical address| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 14. As a site owner, I would like the membership prices, schedules, and different training classes to be readily available for our users.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Navigation Bar| Click Schedule link| Brings user to schedule page| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 15. As a site owner, I would like my users to know who our trainers are.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| The Trainers| On index page scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
+
 <details><summary></summary><img src="docs/userstories/home-wireframe.png"></details>
 
 
