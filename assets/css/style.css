@@ -373,6 +373,10 @@ select {
     background-color: goldenrod;
 }
 
+.center{
+    text-align: center;
+}
+
 /* Media Queries */
 
 @media screen and (max-width:1600px) {
