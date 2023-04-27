@@ -16,30 +16,25 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 
 1. [Project Goal](#project-goal)
-    1. [User Goals](#user-goals)
-    2. [Site Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
-    1. [Target Audience](#target-audience)
-    2. [User Requirements and Expectations](#user-requirements-and-expectations)
-    3. [User Stories](#user-stories)
+    1. [User Requirements and Expectations](#user-requirements-and-expectations)
+    2. [User Stories](#user-stories)
 3. [Design](#design)
-    1. [Design Choices](#design-choices)
-    2. [Colours](#colours)
-    3. [Fonts](#fonts)
-    4. [Structure](#structure)
-    5. [Wireframes](#wireframes)
+    1. [Colours](#colours)
+    2. [Fonts](#fonts)
+    3. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
     2. [Frameworks and Tools](#frameworks-and-tools)
 5. [Features](#features)
 6. [Testing](#testing)
-    1. [HTML Validation](#HTML-Validation)
-    2. [CSS Validation](#CSS-validation)
-    3. [Accessibility](#accessibility)
+    1. [HTML Validation](#html-validation)
+    2. [CSS Validation](#css-validation)
+    3. [Accessibility](#accessibility-testing)
     4. [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compatibility](#browser-compatibility)
-    7. [Testing user stories](#testing-user-stories)
+    7. [User stories testing](#user-stories-testing)
 8. [Bugs](#bugs)
 9. [Deployment](#deployment)
 10. [Credits](#credits)
@@ -215,6 +210,17 @@ The specific colours I used on the site are as follows:
 
 All colours were taken from HTML color picker(https://www.w3schools.com/colors/colors_picker.asp) and I tested them several times before settling for the right shade.
 
+### Fonts
+
+Google fonts were used to import the 'Martian Mono and Nunito Sans' font used throughout the website:
+
+[Mogra](https://fonts.google.com/specimen/Mogra?query=mog&preview.text=mogra&preview.text_type=custom)
+[Lato](https://fonts.google.com/specimen/Lato?query=lato)
+
+Mogra used for the headers.
+Lato used for all other text since it makes it easier to read
+
+
 ### Wireframes
 
 <details><summary>Home</summary><img src="docs/wireframes/home-wireframe.png"></details>
@@ -223,16 +229,33 @@ All colours were taken from HTML color picker(https://www.w3schools.com/colors/c
 
 <details><summary>Contact</summary><img src="docs/wireframes/contact-wireframe.png"></details>
 
+## Technologies used :
 
+### Languages :
 
+- HTML
+- CSS
 
+Tools
 
+- Github
+- Gitpod
+- Tiny PNG
+- Balsamiq
+- Google Fonts
+- Font awesome
+- W3C Validator
+- Jigsaw CSS Validator
+- WAVE Web Accessibility Evaluation Tool
 
 ## Testing :
 
-The WC3C Markup Validation Service was used to test and validate teh HTML and CSS of the website.
+The WC3C Validation Service was used to test and validate the HTML of the website.
+Jigsaw CSS Validator for the CSS
+WAVE Web Accessibility Evaluation Tool used to test accesibility function
 
-### HTML Validation
+
+## HTML Validation :
 
 All tests returned no errors
 
@@ -253,7 +276,7 @@ Schedule : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%
 
 Contact : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-## WAVE Web accessibility testing :
+## Accessibility testing :
 
 All tests returned no errors
 
@@ -295,7 +318,7 @@ The website was tested on the following browsers:
 - Apple Safari
 - Mozilla Firefox
 
-### User stories testing
+## User stories testing
 
 ### First time users
 
