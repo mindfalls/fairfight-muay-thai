@@ -25,7 +25,7 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
     3. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
     1. [Languages](#languages)
-    2. [Frameworks and Tools](#frameworks-and-tools)
+    2. [Tools](#tools)
 5. [Features](#features)
 6. [Testing](#testing)
     1. [HTML Validation](#html-validation)
@@ -236,7 +236,7 @@ Lato used for all other text since it makes it easier to read
 - HTML
 - CSS
 
-Tools
+### Tools :
 
 - Github
 - Gitpod
@@ -504,6 +504,10 @@ https://eu.yokkao.com/pages/what-is-muay-thai
 - Media
 
 ¤ All other photos used in the website are owned by Athit and Sandra Praditphon
+
+## Acknowledgements
+
+My mentor Mo Shami for his expertise and guidance. Could not have done this without you.
 
 
 
