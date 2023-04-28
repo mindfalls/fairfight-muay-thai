@@ -17,24 +17,24 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 1. [Project Goal](#project-goal)
 2. [User Experience](#user-experience)
-    i. [User Requirements and Expectations](#user-requirements-and-expectations)
-    ii. [User Stories](#user-stories)
+    1. [User Requirements and Expectations](#user-requirements-and-expectations)
+    2. [User Stories](#user-stories)
 3. [Design](#design)
-    i. [Colours](#colours)
-    ii. [Fonts](#fonts)
-    iii. [Wireframes](#wireframes)
+    1. [Colours](#colours)
+    2. [Fonts](#fonts)
+    3. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
-    i. [Languages](#languages)
-    ii. [Tools](#tools)
+    1. [Languages](#languages)
+    2. [Tools](#tools)
 5. [Features](#features)
 6. [Testing](#testing)
-    i. [HTML Validation](#html-validation)
-    ii. [CSS Validation](#css-validation)
-    iii. [Accessibility](#accessibility-testing)
-    iv. [Performance](#performance)
-    v. [Device testing](#performing-tests-on-various-devices)
-    vi. [Browser compatibility](#browser-compatibility)
-    vii. [User stories testing](#user-stories-testing)
+    1. [HTML Validation](#html-validation)
+    2. [CSS Validation](#css-validation)
+    3. [Accessibility](#accessibility-testing)
+    4. [Performance](#performance)
+    5. [Device testing](#performing-tests-on-various-devices)
+    6. [Browser compatibility](#browser-compatibility)
+    7. [User stories testing](#user-stories-testing)
 7. [Bugs](#bugs)    
 8. [Deployment](#deployment)
 9. [Credits](#credits)
@@ -43,17 +43,17 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 ## Project goal :
 
-The goal of this website is to attract individuals , ages six (6) and above, of different genders, with our without Muay Thai experience, and who wants to try a unique and fun way of keeping fit. The aim is to design a fully functional website that is user-friendly and can be easily accessed on all devices.
+The goal of this website is to attract individuals , ages six (6) and above, of different genders, with or without Muay Thai experience, and who wants to try a unique and fun way of keeping fit. The aim is to design a fully functional website that is user-friendly and can be easily accessed on all devices.
 
 ## User Experience :
 
-- Ages 6 and up
-- Anyone who is interested to learn Muay Thai and get fit
-- All levels and abilities welcome
+- Ages 6 and up.
+- Anyone who is interested to learn Muay Thai and get fit.
+- All levels and abilities welcome.
 
 ## User requirements and expectations :
 
-- An easily navigated website.
+- An easily navigable website.
 - Links works as expected.
 - Good presentation and a visually appealing design regardless of screen size.
 - An easy way to contact the gym.
@@ -107,73 +107,83 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 
 #### Navigation bar
 
+The site will provide easy access and user friendly tabs which will instantly open and will direct the user to the Homepage, the schedules, and the contact details with just one click. These will be found on the header of all pages to access the different pages without the user having to click back.
+
 <img src="docs/features/nav-bar.png">
 
-The site will provide easy access and user friendly tabs which will instantly open and will direct the user to the Homepage, the schedules, and the contact details with just one click. These will be found on the header of all pages to access the different pages without the user having to click back.
 
 #### The Landing Page
 
-<img src="docs/features/hero.png">
-
 The main page includes a photograph of a Muay Thai fighter giving his respects as part of the pre-fight ritual. It also includes a text overlay of the gym location and the three main values which the gym aims to emulate to its members.
 
-#### Short description of Muay Thai
+<img src="docs/features/hero.png">
 
-<img src="docs/features/intro-text.png">
+
+#### Short description of Muay Thai
 
 This section gives the user a brief history and introduction about what the sport is all about and all this information is provided as a text overlay. It includes a photograph of the traditional Muay Thai techniques.
 Also included is a link to the schedules.
 
+<img src="docs/features/intro-text.png">
+
+
 #### The Trainers
 
-<img src="docs/features/trainers.png">
-
 The user can find the name and photo of the trainers with brief introductions about their Muay Thai experiences.
+
+<img src="docs/features/trainers.png">
 
 
 #### Map
 
-<img src="docs/features/map.png">
-
 The user is provided with an interactive map which points out the exact location of the gym. This is very helpful especially for first time users who are not familiar with the gym location.
 
-#### Footer
+<img src="docs/features/map.png">
 
-<img src="docs/features/footer.png">
+
+#### Footer
 
 The user is provided with the different relevant social media platforms, which when clicked, will open to a new tab. This will make the navigation easier for the user.
 
 Also included is th contact information such as the phone number, email address, and the physical address.
 
-#### Schedule 
+<img src="docs/features/footer.png">
 
-<img src="docs/features/schedule.png">
+
+#### Schedule 
 
 The user is provided a table showing the various training times and days of the week and for which levels or classes.
 
-#### Classes
+<img src="docs/features/schedule.png">
 
-<img src="docs/features/classes.png">
+
+#### Classes
 
 This shows the user the different types of Muay Thai classes provided in the gym. Under each class is a short description that gives the user an idea what to expect and who are included in those classes.
 
-#### Membership prices
+<img src="docs/features/classes.png">
 
-<img src="docs/features/membership.png">
+
+#### Membership prices
 
 Here, the user can see some of the different membership prices provided as well as a link to the contact details for more information regarding price and payment options.
 
-#### Contact Us
+<img src="docs/features/membership.png">
 
-<img src="docs/features/contact.png">
+
+#### Contact Us
 
 This provides an easy way of getting in touch with the gym by filling out the online form with the relevant information needed and clicking "Submit" to send the message.
 
+<img src="docs/features/contact.png">
+
+
 #### Additional Photo section 
+
+Just below the "Send us a message" part is an additional photograph showing some of the trainers in their victory pose.
 
 <img src="docs/features/contact-photo.png">
 
-Just below the "Send us a message" part is an additional photograph showing some of the trainers in their victory pose.
 
 ## Design
 
@@ -208,17 +218,18 @@ The specific colours I used on the site are as follows:
 7.	Instagram purple icon: #962fbf
 8.	Twitter blue icon: #1475e4
 
-All colours were taken from HTML color picker(https://www.w3schools.com/colors/colors_picker.asp) and I tested them several times before settling for the right shade.
+All colours were taken from style css color picker and I tested them several times before settling for the right shade.
 
 ### Fonts
 
 Google fonts were used to import the 'Martian Mono and Nunito Sans' font used throughout the website:
 
 [Mogra](https://fonts.google.com/specimen/Mogra?query=mog&preview.text=mogra&preview.text_type=custom)
+
 [Lato](https://fonts.google.com/specimen/Lato?query=lato)
 
-Mogra used for the headers.
-Lato used for all other text since it makes it easier to read
+Mogra is used for the headers.
+Lato is used for all other text since it makes it easier to read
 
 
 ### Wireframes
@@ -251,8 +262,8 @@ Lato used for all other text since it makes it easier to read
 ## Testing :
 
 The WC3C Validation Service was used to test and validate the HTML of the website.
-Jigsaw CSS Validator for the CSS
-WAVE Web Accessibility Evaluation Tool used to test accesibility function
+Jigsaw CSS Validator is used for the CSS.
+WAVE Web Accessibility Evaluation Tool is used to test accesibility function.
 
 
 ## HTML Validation :
@@ -288,7 +299,7 @@ Schedule : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fa
 Contact : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/contact.html)
 
 ## Performance
-Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. All aspects performing well.
+Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. All aspects are performing well.
 
 index : 
 
@@ -326,7 +337,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Landing page| open home page| Information of which city gym is located is on top left corner of page| Works as expected |
+| Landing page| Open home page| Information of which city gym is located on the top left corner of the page| Works as expected |
 
 
 <details><summary></summary><img src="docs/userstories/user-story1.png"></details>
@@ -344,7 +355,7 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
-| Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
+| Footer| On any page, scroll down to footer| In the footer is phone number, and email address| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story3.png"></details>
 <details><summary></summary><img src="docs/userstories/user-story3-1.png"></details>
@@ -354,7 +365,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| The Trainers| On index page scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
+| The Trainers| On index page, scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story4.png"></details>
 
@@ -362,7 +373,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
+| Footer| On any page, scroll down to footer| on footer is phone number, and email address| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story5.png"></details>
 
@@ -381,7 +392,7 @@ The website was tested on the following browsers:
  **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Map| On index page scroll down to find the map| Shows the user the gyms location on the map| Works as expected |
-| Footer| On any page scroll down to footer| on footer is the physical address for the gym| Works as expected |
+| Footer| On any page, scroll down to footer| In the footer is the physical address for the gym| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story7.png"></details>
 
@@ -394,7 +405,7 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 |Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
-| Footer| On any page scroll down to footer| on footer is phone number, and email address| Works as expected |
+| Footer| On any page, scroll down to footer| In the footer is phone number, and email address| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story3.png"></details>
 <details><summary></summary><img src="docs/userstories/user-story3-1.png"></details>
@@ -412,7 +423,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer| On any page scroll down to footer| on the footer there are links for various social media platforms| Works as expected |
+| Footer| On any page, scroll down to footer| In the the footer there are links for various social media platforms| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story10.png"></details>
 
@@ -424,8 +435,8 @@ The website was tested on the following browsers:
 
  **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Map| On index page scroll down to find the map| Shows the user the gyms location on the map| Works as expected |
-| Footer| On any page scroll down to footer| on footer is the physical address for the gym| Works as expected |
+| Map| On index page, scroll down to find the map| Shows the user the gyms location on the map| Works as expected |
+| Footer| On any page, scroll down to footer| In the footer is the physical address for the gym| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story7.png"></details>
 <details><summary></summary><img src="docs/userstories/user-story5.png"></details>
@@ -434,7 +445,7 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer| On any page scroll down to footer| on footer is phone number, email address, and physical address| Works as expected |
+| Footer| On any page, scroll down to footer| In the footer is phone number, email address, and physical address| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story5.png"></details>
 
@@ -443,7 +454,7 @@ The website was tested on the following browsers:
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Navigation Bar| Click Contact Us link| Brings user to contact page| Works as expected |
-| Footer| On any page scroll down to footer| on footer is phone number, email address, and physical address| Works as expected |
+| Footer| On any page, scroll down to footer| In the footer is phone number, email address, and physical address| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story3.png"></details>
 <details><summary></summary><img src="docs/userstories/user-story3-1.png"></details>
@@ -462,14 +473,14 @@ The website was tested on the following browsers:
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| The Trainers| On index page scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
+| The Trainers| On index page, scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story4.png"></details>
 
 
 ## Bugs
 
-- There are no known bugs in the code
+- There are no known bugs in the code.
 
 
 
@@ -514,6 +525,7 @@ https://eu.yokkao.com/pages/what-is-muay-thai
 ## Acknowledgements
 
 My mentor Mo Shami for his expertise and guidance. Could not have done this without you.
+My friend Sandra Praditphon and her husband Athit for providing me the photos needed for this project.
 
 
 
