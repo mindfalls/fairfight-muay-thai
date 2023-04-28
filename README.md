@@ -184,6 +184,12 @@ Just below the "Send us a message" part is an additional photograph showing some
 
 <img src="docs/features/contact-photo.png">
 
+#### 404 Page
+
+Added a custom 404 page for fun.
+
+<img src="docs/features/404.png">
+
 
 ## Design
 
