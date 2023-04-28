@@ -60,7 +60,7 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 - Simple content that the user can skim read.
 
 
-### User Stories:
+### User Stories :
 
 ### First-Time Users :
 
