@@ -276,6 +276,8 @@ Schedule : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.githu
 
 Contact : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fcontact.html)
 
+404 : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2F404.html)
+
 ## CSS Validation :
 
 All tests returned no errors
@@ -312,6 +314,10 @@ schedule :
 contact : 
 
 <img src="docs/lighthouse/contact-test.png">
+
+404 :
+
+<img src="docs/lighthouse/404-test.png">
 
 ### Performing tests on various devices 
 
