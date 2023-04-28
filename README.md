@@ -17,28 +17,28 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 1. [Project Goal](#project-goal)
 2. [User Experience](#user-experience)
-    1. [User Requirements and Expectations](#user-requirements-and-expectations)
-    2. [User Stories](#user-stories)
+    i. [User Requirements and Expectations](#user-requirements-and-expectations)
+    ii. [User Stories](#user-stories)
 3. [Design](#design)
-    1. [Colours](#colours)
-    2. [Fonts](#fonts)
-    3. [Wireframes](#wireframes)
+    i. [Colours](#colours)
+    ii. [Fonts](#fonts)
+    iii. [Wireframes](#wireframes)
 4. [Technologies Used](#technologies-used)
-    1. [Languages](#languages)
-    2. [Tools](#tools)
+    i. [Languages](#languages)
+    ii. [Tools](#tools)
 5. [Features](#features)
 6. [Testing](#testing)
-    1. [HTML Validation](#html-validation)
-    2. [CSS Validation](#css-validation)
-    3. [Accessibility](#accessibility-testing)
-    4. [Performance](#performance)
-    5. [Device testing](#performing-tests-on-various-devices)
-    6. [Browser compatibility](#browser-compatibility)
-    7. [User stories testing](#user-stories-testing)
-8. [Bugs](#bugs)
-9. [Deployment](#deployment)
-10. [Credits](#credits)
-11. [Acknowledgements](#acknowledgements)
+    i. [HTML Validation](#html-validation)
+    ii. [CSS Validation](#css-validation)
+    iii. [Accessibility](#accessibility-testing)
+    iv. [Performance](#performance)
+    v. [Device testing](#performing-tests-on-various-devices)
+    vi. [Browser compatibility](#browser-compatibility)
+    vii. [User stories testing](#user-stories-testing)
+7. [Bugs](#bugs)    
+8. [Deployment](#deployment)
+9. [Credits](#credits)
+10. [Acknowledgements](#acknowledgements)
 
 
 ## Project goal :
@@ -465,6 +465,12 @@ The website was tested on the following browsers:
 | The Trainers| On index page scroll down to find information| User will find photo, name, and short presentation of trainers| Works as expected |
 
 <details><summary></summary><img src="docs/userstories/user-story4.png"></details>
+
+
+## Bugs
+
+- There are no known bugs in the code
+
 
 
 
