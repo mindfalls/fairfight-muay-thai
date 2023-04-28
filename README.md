@@ -5,7 +5,7 @@ Developer : Mattias Lundkvist
 ## project overview
 [Live webpage](https://mindfalls.github.io/fairfight-muay-thai/)
 
-## Subject : 
+## Subject 
 To design and develop a dynamic and attractive website for a Muay Thai gym.
 
 <img src="docs/responsive-screen.png">
@@ -41,17 +41,17 @@ To design and develop a dynamic and attractive website for a Muay Thai gym.
 10. [Acknowledgements](#acknowledgements)
 
 
-## Project goal :
+## Project goal
 
 The goal of this website is to attract individuals , ages six (6) and above, of different genders, with or without Muay Thai experience, and who wants to try a unique and fun way of keeping fit. The aim is to design a fully functional website that is user-friendly and can be easily accessed on all devices.
 
-## User Experience :
+## User Experience
 
 - Ages 6 and up.
 - Anyone who is interested to learn Muay Thai and get fit.
 - All levels and abilities welcome.
 
-### User requirements and expectations :
+### User requirements and expectations
 
 - An easily navigable website.
 - Links works as expected.
@@ -60,9 +60,9 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 - Simple content that the user can skim read.
 
 
-### User Stories :
+### User Stories
 
-### First-Time Users :
+### First-Time Users
 
 
 1. As a first-time user, I would like to know straight away which city the gym is located.
@@ -79,7 +79,7 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 
 7. As a first-time user, I would like to be able to locate the gym easily.
 
-### Returning Users :
+### Returning Users
 
 
 8. As a returning user, I would like to be able to contact the gym easily if I need more information.
@@ -88,7 +88,7 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 
 10. As a returning user, I would like to find the gym on different social media sites.
 
-### Site Owner :
+### Site Owner
 
 
 11. As a site owner, I want my users to be able to locate the gym easily.
@@ -101,7 +101,7 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 
 15. As a site owner, I would like my users to know who our trainers are.
 
-## Features :
+## Features
 
 
 
@@ -242,12 +242,12 @@ Lato is used for all other text since it makes it easier to read
 
 ## Technologies used :
 
-### Languages :
+### Languages
 
 - HTML
 - CSS
 
-### Tools :
+### Tools
 
 - Github
 - Gitpod
@@ -259,14 +259,14 @@ Lato is used for all other text since it makes it easier to read
 - Jigsaw CSS Validator
 - WAVE Web Accessibility Evaluation Tool
 
-## Testing :
+## Testing
 
 The WC3C Validation Service was used to test and validate the HTML of the website.
 Jigsaw CSS Validator is used for the CSS.
 WAVE Web Accessibility Evaluation Tool is used to test accesibility function.
 
 
-## HTML Validation :
+## HTML Validation
 
 All tests returned no errors
 
@@ -278,7 +278,7 @@ Contact : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github
 
 404 : [Link](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2F404.html)
 
-## CSS Validation :
+## CSS Validation
 
 All tests returned no errors
 
@@ -289,7 +289,7 @@ Schedule : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%
 
 Contact : [Link](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmindfalls.github.io%2Ffairfight-muay-thai%2Fcontact.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-## Accessibility testing :
+## Accessibility testing
 
 All tests returned no errors
 
@@ -301,6 +301,7 @@ Schedule : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fa
 Contact : [Link](https://wave.webaim.org/report#/https://mindfalls.github.io/fairfight-muay-thai/contact.html)
 
 ## Performance
+
 Google Lighthouse in Google Chrome Developer Tools was used to test the performance of the website. All aspects are performing well.
 
 index : 
@@ -491,7 +492,7 @@ The website was tested on the following browsers:
 
 
 
-## Deployment :
+## Deployment
 
 The website was deployed using GitHub Pages by following these steps:
 
