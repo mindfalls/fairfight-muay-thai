@@ -51,7 +51,7 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 - Anyone who is interested to learn Muay Thai and get fit.
 - All levels and abilities welcome.
 
-## User requirements and expectations :
+### User requirements and expectations :
 
 - An easily navigable website.
 - Links works as expected.
@@ -60,7 +60,7 @@ The goal of this website is to attract individuals , ages six (6) and above, of 
 - Simple content that the user can skim read.
 
 
-## User Stories:
+### User Stories:
 
 ### First-Time Users :
 
